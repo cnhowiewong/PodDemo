@@ -6,6 +6,7 @@
 //
 
 #import "ViewController.h"
+#import <TestProject/TestPerson.h>
 
 @interface ViewController ()
 
@@ -15,7 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    
+    TestPerson * person = [[TestPerson alloc] init];
+    [person foo];
 }
 
 
