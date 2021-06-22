@@ -1,0 +1,22 @@
+{
+  "name": "TestProject",
+  "version": "0.1.5",
+  "summary": "A short description of TestProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cnhowiewong/TestProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "howie0307why@163.com": "wanghouyi@hupu.com"
+  },
+  "source": {
+    "http": "https://github.com/cnhowiewong/frameworks/TestProject/0.1.5/TestProject.framework.zip"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestProject/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h"
+}

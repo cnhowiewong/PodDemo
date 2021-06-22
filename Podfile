@@ -10,6 +10,7 @@ source 'https://github.com/cnhowiewong/testSpecs.git'
 
   # Pods for PodDemo
 	pod 'AFNetworking'
+	pod 'TestProject',:podspec => 'Specs/TestProject.podspec'
 
   target 'PodDemoTests' do
     inherit! :search_paths
