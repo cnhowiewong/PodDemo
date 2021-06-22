@@ -14,22 +14,17 @@ PODS:
   - AFNetworking/Serialization (4.0.1)
   - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
-  - TestProject (0.1.4)
 
 DEPENDENCIES:
   - AFNetworking
-  - TestProject
 
 SPEC REPOS:
-  https://github.com/cnhowiewong/testSpecs.git:
-    - TestProject
   https://github.com/CocoaPods/Specs.git:
     - AFNetworking
 
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
-  TestProject: fce4d5ad81fa46fbeaa92673d533de005258753c
 
-PODFILE CHECKSUM: 8d6aa0c4020f6e463653bfee595422138bf38b16
+PODFILE CHECKSUM: 8eee35434f26e6c99ad24cc30bc3dbb0655a41ad
 
 COCOAPODS: 1.10.1
